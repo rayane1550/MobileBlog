@@ -1,6 +1,6 @@
   import 'package:flutter/material.dart';
 
-  class TelaInterativa extends StatefulWidget {
+  class TelaInterativa extends StatefulWidget { // Statefull é para telas que tem interação com o usuário, ou seja, telas que podem mudar de estado. Ele é usado quando a tela precisa atualizar seu conteúdo com base em ações do usuário ou eventos. O StatefulWidget é composto por duas classes: a classe principal (TelaInterativa) e a classe de estado (_TelaInterativaState). A classe de estado é onde a lógica de atualização da tela é implementada, e o método setState() é usado para notificar o framework de que o estado da tela mudou, o que faz com que a tela seja reconstruída com as novas informações.
     const TelaInterativa({super.key});
 
     @override

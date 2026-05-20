@@ -1,6 +1,6 @@
 {
-    "name": "blog",
-    "short_name": "blog",
+    "name": "flutter_blog",
+    "short_name": "flutter_blog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
